@@ -40,6 +40,11 @@
 			<artifactId>poiouiytre</artifactId>
 			<scope>987655</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.springt</groupId>
+			<artifactId>poiouiytre</artifactId>
+			<scope>987655</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
